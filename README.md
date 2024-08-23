@@ -1,4 +1,4 @@
-## Olá, sou Renato Araujo!
+## Olá, sou o Renato Araujo! ✌️
 - 👀 Estou interessado em aprender programação
 - 🌱 Estudante de Python
 
